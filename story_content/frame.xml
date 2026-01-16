@@ -1636,7 +1636,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Healthcare Insurance Providers in the US and Glossary.pdf" image="story_content/6AeEYea00N8.png" title="Healthcare Insurance Providers in the US | Glossary" />
+      <resource url="https://" image="story_content/url.png" title="Healthcare Insurance Providers in the US | Glossary" />
     </resources>
   </resource_data>
   <transcript_data />
